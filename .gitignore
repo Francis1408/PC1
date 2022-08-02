@@ -1,0 +1,11 @@
+# Execution files
+*.exe
+*.o
+*.txt
+*.bin
+*.
+!arq2.bin
+Arquivo2.c
+# File Directory
+/Exercicios
+
