@@ -1,2 +1,2 @@
 # PC1
-Programs I have mede during my first college's term
+First programs I have mede during my freshman year
